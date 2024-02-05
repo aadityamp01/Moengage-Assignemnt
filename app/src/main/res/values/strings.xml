@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moengage Assignemnt</string>
+    <string name="moengage_news">Moengage News</string>
+    <string name="news_image">News image</string>
+    <string name="news_title">News Title</string>
+    <string name="news_description">News Description</string>
+</resources>
